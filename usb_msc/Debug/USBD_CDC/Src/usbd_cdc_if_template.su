@@ -1,0 +1,5 @@
+../USBD_CDC/Src/usbd_cdc_if_template.c:107:15:TEMPLATE_Init	8	static
+../USBD_CDC/Src/usbd_cdc_if_template.c:123:15:TEMPLATE_DeInit	4	static
+../USBD_CDC/Src/usbd_cdc_if_template.c:140:15:TEMPLATE_Control	16	static
+../USBD_CDC/Src/usbd_cdc_if_template.c:219:15:TEMPLATE_Receive	16	static
+../USBD_CDC/Src/usbd_cdc_if_template.c:242:15:TEMPLATE_TransmitCplt	24	static

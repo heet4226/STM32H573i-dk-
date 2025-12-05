@@ -1,0 +1,9 @@
+../USBD/Core/Src/usbd_desc.c:258:10:USBD_FS_DeviceDescriptor	1
+../USBD/Core/Src/usbd_desc.c:272:10:USBD_FS_LangIDStrDescriptor	1
+../USBD/Core/Src/usbd_desc.c:286:10:USBD_FS_ProductStrDescriptor	1
+../USBD/Core/Src/usbd_desc.c:310:10:USBD_FS_ManufacturerStrDescriptor	1
+../USBD/Core/Src/usbd_desc.c:324:10:USBD_FS_SerialStrDescriptor	1
+../USBD/Core/Src/usbd_desc.c:342:10:USBD_FS_ConfigStrDescriptor	2
+../USBD/Core/Src/usbd_desc.c:361:10:USBD_FS_InterfaceStrDescriptor	2
+../USBD/Core/Src/usbd_desc.c:379:13:Get_SerialNum	2
+../USBD/Core/Src/usbd_desc.c:441:13:IntToUnicode	3
