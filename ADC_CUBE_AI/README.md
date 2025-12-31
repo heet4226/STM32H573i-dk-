@@ -1,0 +1,5 @@
+With the rapid growth of edge AI, this project was developed to learn how to deploy a TinyML model directly on a microcontroller. A potentiometer was used as an analog input source to acquire data via the ADC. The collected data was divided into two classes and stored in separate datasets; for example, ADC values below 2000 were labeled as normal, while values above this threshold were labeled as abnormal.
+
+The dataset was used to train a one-dimensional convolutional neural network (1D CNN). The trained model was then converted into a .tflite file using the Google Colab environment. Subsequently, STM32Cube.AI was used to integrate and deploy the model onto the microcontroller. The deployed model was executed on the target hardware to verify correct inference and to evaluate whether the classification output matched the expected behavior.
+
+Note: Only the code written within the USER CODE BEGIN / USER CODE END sections was developed by me. All other code is provided by the STM32 Board Support Package (BSP) and/or associated libraries, and is not claimed as my own work.
