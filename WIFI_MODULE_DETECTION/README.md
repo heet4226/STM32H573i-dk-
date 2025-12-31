@@ -1,0 +1,3 @@
+This project was developed to learn SPI communication using the on-board Wi-Fi module. The Wi-Fi module communicates with the microcontroller via SPI5. To determine whether the module is properly attached and functioning, SPI5 was used to establish communication with the module and verify its presence. The detection status was then displayed on the board’s on-board display.
+
+Note: Only the code written within the USER CODE BEGIN / USER CODE END sections was developed by me. All other code is provided by the STM32 Board Support Package (BSP) and/or associated libraries, and is not claimed as my own work.
