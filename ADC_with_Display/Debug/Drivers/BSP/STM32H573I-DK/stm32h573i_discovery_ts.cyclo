@@ -1,0 +1,16 @@
+../Drivers/BSP/STM32H573I-DK/stm32h573i_discovery_ts.c:133:9:BSP_TS_Init	13
+../Drivers/BSP/STM32H573I-DK/stm32h573i_discovery_ts.c:204:9:BSP_TS_DeInit	3
+../Drivers/BSP/STM32H573I-DK/stm32h573i_discovery_ts.c:230:9:BSP_TS_GetCapabilities	6
+../Drivers/BSP/STM32H573I-DK/stm32h573i_discovery_ts.c:267:9:BSP_TS_EnableIT	5
+../Drivers/BSP/STM32H573I-DK/stm32h573i_discovery_ts.c:317:9:BSP_TS_DisableIT	3
+../Drivers/BSP/STM32H573I-DK/stm32h573i_discovery_ts.c:349:13:BSP_TS_Callback	1
+../Drivers/BSP/STM32H573I-DK/stm32h573i_discovery_ts.c:363:6:BSP_TS_IRQHandler	1
+../Drivers/BSP/STM32H573I-DK/stm32h573i_discovery_ts.c:374:9:BSP_TS_Set_Orientation	15
+../Drivers/BSP/STM32H573I-DK/stm32h573i_discovery_ts.c:439:9:BSP_TS_Get_Orientation	7
+../Drivers/BSP/STM32H573I-DK/stm32h573i_discovery_ts.c:480:9:BSP_TS_GetState	11
+../Drivers/BSP/STM32H573I-DK/stm32h573i_discovery_ts.c:568:9:BSP_TS_Get_MultiTouchState	13
+../Drivers/BSP/STM32H573I-DK/stm32h573i_discovery_ts.c:667:9:BSP_TS_GestureConfig	1
+../Drivers/BSP/STM32H573I-DK/stm32h573i_discovery_ts.c:682:9:BSP_TS_GetGestureId	1
+../Drivers/BSP/STM32H573I-DK/stm32h573i_discovery_ts.c:704:16:FT6X06_Probe	5
+../Drivers/BSP/STM32H573I-DK/stm32h573i_discovery_ts.c:748:13:TS_EXTI_Callback	1
+../Drivers/BSP/STM32H573I-DK/stm32h573i_discovery_ts.c:763:13:TS_RESET_MspInit	1
