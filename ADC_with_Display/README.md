@@ -1,0 +1,3 @@
+This project is implemented using the STM32H573I-DK development board. The board includes an internal temperature sensor, whose output is measured using the on-chip Analog-to-Digital Converter (ADC). The raw ADC data is processed and converted into a meaningful temperature value. Both the ADC reading and the calculated temperature are displayed in real time on the board’s on-board TFT display.
+
+Note: Only the code written within the USER CODE BEGIN / USER CODE END sections was developed by me. All other code is provided by the STM32 Board Support Package (BSP) and associated libraries, and is not claimed as my own work.
