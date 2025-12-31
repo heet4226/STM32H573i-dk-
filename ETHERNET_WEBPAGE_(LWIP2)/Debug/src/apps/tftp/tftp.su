@@ -1,0 +1,16 @@
+../src/apps/tftp/tftp.c:101:1:close_handle	8	static
+../src/apps/tftp/tftp.c:121:1:init_packet	32	static
+../src/apps/tftp/tftp.c:136:1:send_request	48	static
+../src/apps/tftp/tftp.c:158:1:send_error	40	static
+../src/apps/tftp/tftp.c:179:1:send_ack	24	static
+../src/apps/tftp/tftp.c:195:1:resend_data	24	static
+../src/apps/tftp/tftp.c:215:1:send_data	24	static
+../src/apps/tftp/tftp.c:243:1:tftp_recv	96	static
+../src/apps/tftp/tftp.c:417:1:tftp_tmr	16	static
+../src/apps/tftp/tftp.c:447:1:tftp_init_common	24	static
+../src/apps/tftp/tftp.c:481:1:tftp_init_server	16	static
+../src/apps/tftp/tftp.c:491:1:tftp_init_client	16	static
+../src/apps/tftp/tftp.c:499:6:tftp_cleanup	8	static
+../src/apps/tftp/tftp.c:508:1:mode_to_string	16	static
+../src/apps/tftp/tftp.c:523:1:tftp_get	32	static
+../src/apps/tftp/tftp.c:536:1:tftp_put	32	static
