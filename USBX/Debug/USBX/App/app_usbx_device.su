@@ -1,0 +1,5 @@
+../USBX/App/app_usbx_device.c:78:6:MX_USBX_Device_Init	104	static
+../USBX/App/app_usbx_device.c:217:13:app_ux_device_thread_entry	16	static
+../USBX/App/app_usbx_device.c:237:13:USBD_ChangeFunction	24	static
+../USBX/App/app_usbx_device.c:321:6:usbx_cdc_acm_write_thread_entry	56	static
+../USBX/App/app_usbx_device.c:333:6:usbx_cdc_acm_read_thread_entry	88	static
