@@ -1,0 +1,3 @@
+This code is used to verify the functionality of the CAN peripheral on the board. Since the board does not include an on-board CAN transceiver, the CAN controller is configured in internal loopback mode. In this mode, data frames are transmitted by storing values in a transmit buffer, and the same frames are received internally by the CAN peripheral. The received data is then compared with the transmitted data to confirm correct CAN operation.
+
+Note: Only the code written within the USER CODE BEGIN / USER CODE END sections was developed by me. All other code is provided by the STM32 Board Support Package (BSP) and/or associated libraries, and is not claimed as my own work.
