@@ -1,0 +1,3 @@
+C:/Users/aiXtrusion/STM32CubeIDE/workspace_1.19.0/wifi2/WIFI/mx_wifi_bare_os.h:49:25:mx_buf_alloc	24	static
+../WIFI/core/mx_wifi_slip.c:55:10:slip_transfer	40	static
+../WIFI/core/mx_wifi_slip.c:106:11:slip_input_byte	24	static

@@ -1,0 +1,16 @@
+../Drivers/BSP/Components/ft6x06/ft6x06.c:85:9:FT6X06_RegisterBusIO	24	static
+../Drivers/BSP/Components/ft6x06/ft6x06.c:125:9:FT6X06_GetCapabilities	16	static
+../Drivers/BSP/Components/ft6x06/ft6x06.c:146:9:FT6X06_Init	24	static
+../Drivers/BSP/Components/ft6x06/ft6x06.c:181:9:FT6X06_DeInit	16	static
+../Drivers/BSP/Components/ft6x06/ft6x06.c:198:9:FT6X06_GestureConfig	24	static
+../Drivers/BSP/Components/ft6x06/ft6x06.c:224:9:FT6X06_ReadID	24	static
+../Drivers/BSP/Components/ft6x06/ft6x06.c:241:9:FT6X06_GetState	24	static
+../Drivers/BSP/Components/ft6x06/ft6x06.c:268:9:FT6X06_GetMultiTouchState	32	static
+../Drivers/BSP/Components/ft6x06/ft6x06.c:313:9:FT6X06_GetGesture	16	static
+../Drivers/BSP/Components/ft6x06/ft6x06.c:324:9:FT6X06_EnableIT	16	static
+../Drivers/BSP/Components/ft6x06/ft6x06.c:335:9:FT6X06_DisableIT	16	static
+../Drivers/BSP/Components/ft6x06/ft6x06.c:348:9:FT6X06_ITStatus	16	static
+../Drivers/BSP/Components/ft6x06/ft6x06.c:364:9:FT6X06_ClearIT	16	static
+../Drivers/BSP/Components/ft6x06/ft6x06.c:471:16:FT6X06_DetectTouch	24	static
+../Drivers/BSP/Components/ft6x06/ft6x06.c:504:16:ReadRegWrap	40	static
+../Drivers/BSP/Components/ft6x06/ft6x06.c:519:16:WriteRegWrap	40	static
